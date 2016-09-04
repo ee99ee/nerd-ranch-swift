@@ -1,1 +1,2 @@
-# nerd-ranch-swift
+# Exercises for The Big Nerd Ranch - Swift
+This is a repo for answers to exercises from [The Big Nerd Ranch's guide to Swift Programming](https://www.amazon.com/gp/product/0134398017/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chmi-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0134398017&linkId=22af41d7b7ff079311b5c3001b415b5a). This is just for personal use, so don't take anything here too seriously. I'm doing this in collaboration with my friend Adam Pitchie. His repo for exercise answers [is here](https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fadampitchie%2FNerdRanch&h=xAQHGknQz).
