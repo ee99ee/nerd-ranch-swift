@@ -15,3 +15,7 @@ if population < 10000 {
 }
 
 print(message)
+
+if !hasPostOffice {
+    print("Where do we buy stamps??????")
+}
